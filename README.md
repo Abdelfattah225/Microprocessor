@@ -10,3 +10,6 @@
 - 🔌 Input/Output Interfacing: We interfaced input and output units with the CPU, allowing interaction with external devices.
 
 These hands-on experiments not only enriched our knowledge of microprocessor architecture and interfacing but also provided practical experience in both hardware and software aspects of embedded systems.
+
+
+![ top  ](Final_Result.jpeg "Ex")
