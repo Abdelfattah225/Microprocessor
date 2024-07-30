@@ -1,12 +1,12 @@
 # Microprocessor
 <h3>building a complete Intel 8086-based microcomputer.</h3>
 
-- 🔧 Clock Generator: Designing and implementing a clock generator circuit with the 8284 clock generator.
+- 🔧 Clock Generator: We successfully designed and implemented a clock generator circuit using the 8284 clock generator.
 
-- 🔗 Buffering and Address Scan: Connecting and buffering CPU buses for interfacing, and understanding the principal operation cycles of the CPU.
+- 🔗 Buffering and Address Scan: We mastered connecting and buffering CPU buses for interfacing, and deepened our understanding of the CPU's principal operation cycles.
 
-- 💾 Memory Interfacing: Connecting non-volatile EEPROM memory to execute stored software.
+- 💾 Memory Interfacing: We connected non-volatile EEPROM memory to execute stored software, gaining essential insights into memory management.
 
-- 🔌 Input/Output Interfacing: Interfacing input and output units with the CPU to interact with external devices.
+- 🔌 Input/Output Interfacing: We interfaced input and output units with the CPU, allowing interaction with external devices.
 
-- These experiments not only enhanced our understanding of microprocessor architecture and interfacing but also provided hands-on experience with both hardware and software aspects of embedded systems.
+These hands-on experiments not only enriched our knowledge of microprocessor architecture and interfacing but also provided practical experience in both hardware and software aspects of embedded systems.
