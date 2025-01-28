@@ -1,5 +1,4 @@
-# Microprocessor
-<h3>building a complete Intel 8086-based microcomputer.</h3>
+# building a complete Intel 8086-based microcomputer.
 
 - 🔧 Clock Generator: We successfully designed and implemented a clock generator circuit using the 8284 clock generator.
 
